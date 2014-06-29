@@ -1,0 +1,27 @@
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\bin\Debug\Calculator.exe.config
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\bin\Debug\Calculator.exe
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\bin\Debug\Calculator.pdb
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\obj\Debug\Calculator.exe
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\obj\Debug\Calculator.pdb
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\obj\Debug\Calculator.MainForm.resources
+c:\users\stilgar\documents\visual studio 2012\Projects\hw17\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\obj\Debug\Calculator.exe
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\bin\Debug\Calculator.exe
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\obj\Debug\Calculator.MainForm.resources
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Stilgar\SkyDrive\CSharp Course\lesson17\hw17\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\bin\Debug\Calculator.exe.config
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\obj\Debug\Calculator.exe
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\obj\Debug\Calculator.pdb
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\bin\Debug\Calculator.exe
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\bin\Debug\Calculator.pdb
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\obj\Debug\Calculator.MainForm.resources
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\C# stuff\Lecture 17\hw17\hw17\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
